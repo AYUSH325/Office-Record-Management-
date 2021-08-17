@@ -1,4 +1,4 @@
-# Office-Record-Management-
+# Office-Record-Management
 
 This project uses the concept of Python, SQL and SQL-Python Connectivity .
 
