@@ -1,6 +1,6 @@
 # Office-Record-Management-
 
-This project uses the concept of SQL, SQL-Python Connectivity and User defined functions.
+This project uses the concept of Python, SQL and SQL-Python Connectivity .
 
 The project uses the office database to make changes to the table employee stored in the office database using python shell.
 At first, the user has to go through a security check-in in order to prevent theft of private details. The user has been given three chances to enter password correctly.
